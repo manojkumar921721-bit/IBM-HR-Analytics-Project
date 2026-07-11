@@ -179,4 +179,4 @@ Aspiring Data Analyst
 ### Connect with me
 
 - LinkedIn: *(https://www.linkedin.com/in/manoj-kumar-294033375/)*
-- GitHub: *(https://github.com/manojkumar921721-bit)*https://github.com/manojkumar921721-bit/IBM-HR-Analytics-Project.git
+- GitHub: *(https://github.com/manojkumar921721-bit/IBM-HR-Analytics-Project.git)*
